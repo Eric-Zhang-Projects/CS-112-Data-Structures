@@ -1,2 +1,3 @@
 # CS-112-Data-Structures
+CURRENTLY EMPTY
 RU CS112
